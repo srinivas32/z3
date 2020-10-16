@@ -1,3 +1,6 @@
+arch:
+    - amd64
+    - ppc64le
 cache:
   # This persistent cache is used to cache the building of
   # docker base images.
